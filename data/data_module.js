@@ -450,8 +450,8 @@ define([], function() {
         },
         {
             "id": 54,
-            "title": "",
-            "description": "Dillon Carmichael (iHeartRadio Stage)",
+            "title": "Dillon Carmichael (iHeartRadio Stage)",
+            "description": "",
             "startTime": new Date("2023-08-05T12:45:00"),
             "endTime": new Date("2023-08-05T13:25:00"),
             "location": ""
