@@ -117,11 +117,11 @@ small { font-size: 70%; }
 
 .star {
   background-image: url("../images/active_favorite_star.png");
-  background-position: center;
+  background-position: 16.5px center;
   background-repeat: no-repeat;
   background-size: 22px;
   position: relative;
-  left: 0px;
+  left: 5.5px;
   top: -8px;
   padding: 22px;
 }
