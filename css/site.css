@@ -104,8 +104,7 @@ small { font-size: 70%; }
 .list-group { width: 100%; }
 
 .list-group-item {
-  padding-bottom: 7px;
-  padding-top: 7px;
+  padding: 7px 5px;
 }
 
 .list-group-item a {
@@ -121,7 +120,7 @@ small { font-size: 70%; }
   background-repeat: no-repeat;
   background-size: contain;
   position: relative;
-  left: -12px;
+  left: 0px;
   top: 8px;
   padding: 9px;
 }
