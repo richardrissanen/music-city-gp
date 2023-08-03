@@ -90,10 +90,10 @@ small { font-size: 70%; }
 .accordion-toggle.expand:after { content: "\25BC"; }
 
 .big-star:after {
-  background-color: #e9ecef;
+  background-color: white;
   border: 2px solid #343a40;
   border-radius: 8px;
-  color: #007bff;
+  color: #f4d246;
   font-size: 5em;
   padding: 15px 30px;
   content: "\2606";
@@ -104,8 +104,8 @@ small { font-size: 70%; }
 .list-group { width: 100%; }
 
 .list-group-item {
-  padding-bottom: 15px;
-  padding-top: 15px;
+  padding-bottom: 7px;
+  padding-top: 7px;
 }
 
 .list-group-item a {
@@ -122,6 +122,7 @@ small { font-size: 70%; }
   background-size: contain;
   position: relative;
   left: -12px;
+  top: 8px;
   padding: 9px;
 }
 .star.empty { background-image: url("../images/active_empty_star.png"); }
