@@ -375,7 +375,151 @@ define([], function() {
             "startTime": new Date("2023-08-06T14:30:00"),
             "endTime": new Date("2023-08-06T16:00:00"),
             "location": ""
-        }
+        },
+        {
+            "id": 45,
+            "title": "ZOEE (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-04T12:00"),
+            "endTime": new Date("2023-08-04T12:40"),
+            "location": ""
+        },
+        {
+            "id": 46,
+            "title": "Connor McCutcheon (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-04T13:30"),
+            "endTime": new Date("2023-08-04T14:10"),
+            "location": ""
+        },
+        {
+            "id": 47,
+            "title": "American Blonde (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-04T15:00"),
+            "endTime": new Date("2023-08-04T15:40"),
+            "location": ""
+        },
+        {
+            "id": 48,
+            "title": "Ryan Griffin (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-04T16:15"),
+            "endTime": new Date("2023-08-04T16:55"),
+            "location": ""
+        },
+        {
+            "id": 49,
+            "title": "Special Guest (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-04T17:30"),
+            "endTime": new Date("2023-08-04T18:10"),
+            "location": ""
+        },
+        {
+            "id": 50,
+            "title": "Wesley Mortgage FREEDOM FRIDAY TRIBUTE CONCERT",
+            "description": "",
+            "startTime": new Date("2023-08-04T19:00"),
+            "endTime": new Date("2023-08-04T19:40"),
+            "location": ""
+        },
+        {
+            "id": 51,
+            "title": "Neon Union (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T09:00:00"),
+            "endTime": new Date("2023-08-05T09:40:00"),
+            "location": ""
+        },
+        {
+            "id": 52,
+            "title": "Special Guest (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T09:40:00"),
+            "endTime": new Date("2023-08-05T10:20:00"),
+            "location": ""
+        },
+        {
+            "id": 53,
+            "title": "Frank Ray (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T11:30:00"),
+            "endTime": new Date("2023-08-05T12:10:00"),
+            "location": ""
+        },
+        {
+            "id": 54,
+            "title": "",
+            "description": "Dillon Carmichael (iHeartRadio Stage)",
+            "startTime": new Date("2023-08-05T12:45:00"),
+            "endTime": new Date("2023-08-05T13:25:00"),
+            "location": ""
+        },
+        {
+            "id": 55,
+            "title": "Special Guest (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T14:45:00"),
+            "endTime": new Date("2023-08-05T15:25:00"),
+            "location": ""
+        },
+        {
+            "id": 56,
+            "title": "Megan Moroney (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T15:45:00"),
+            "endTime": new Date("2023-08-05T16:25:00"),
+            "location": ""
+        },
+        {
+            "id": 57,
+            "title": "DJ Hish (Zyn Main Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T18:45:00"),
+            "endTime": new Date("2023-08-05T19:05:00"),
+            "location": ""
+        },
+        {
+            "id": 58,
+            "title": "FLO RIDA (Zyn Main Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-05T19:05:00"),
+            "endTime": new Date("2023-08-05T19:45:00"),
+            "location": ""
+        },
+        {
+            "id": 59,
+            "title": "Exotic Car Show (Zyn Main Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-06T08:00:00"),
+            "endTime": new Date("2023-08-06T08:40:00"),
+            "location": ""
+        },
+        {
+            "id": 60,
+            "title": "Red Street Records Presents",
+            "description": "",
+            "startTime": new Date("2023-08-06T09:00:00"),
+            "endTime": new Date("2023-08-06T09:40:00"),
+            "location": ""
+        },
+        {
+            "id": 61,
+            "title": "Mae Estes (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-06T10:15:00"),
+            "endTime": new Date("2023-08-06T11:05:00"),
+            "location": ""
+        },
+        {
+            "id": 62,
+            "title": "Tim Dugger (iHeartRadio Stage)",
+            "description": "",
+            "startTime": new Date("2023-08-06T02:00:00"),
+            "endTime":  new Date("2023-08-06T14:40:00"),
+            "location": ""
+        },
     ];
 
     function sortByStart(eventList) {
