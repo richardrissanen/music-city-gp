@@ -83,7 +83,7 @@ define([], function() {
         },
         {
             "id": 11,
-            "title": "FREEDOM FRIDAY TRIBUTE CONCERT",
+            "title": "FREEDOM FRIDAY TRIBUTE CONCERT (Zyn Main Stage)",
             "description": "",
             "startTime": new Date("2023-08-04T18:45:00"),
             "endTime": new Date("2023-08-04T21:30:00"),
@@ -118,14 +118,6 @@ define([], function() {
             "description": "",
             "startTime": new Date("2023-08-05T08:30:00"),
             "endTime": new Date("2023-08-05T09:35:00"),
-            "location": ""
-        },
-        {
-            "id": 16,
-            "title": "IHEART COUNTRY STAGE LIVE MUSIC",
-            "description": "",
-            "startTime": new Date("2023-08-05T09:00:00"),
-            "endTime": new Date("2023-08-05T19:00:00"),
             "location": ""
         },
         {
@@ -198,14 +190,6 @@ define([], function() {
             "description": "",
             "startTime": new Date("2023-08-05T18:10:00"),
             "endTime": new Date("2023-08-05T19:00:00"),
-            "location": ""
-        },
-        {
-            "id": 26,
-            "title": "FLO RIDA CONCERT ON MAIN STAGE",
-            "description": "",
-            "startTime": new Date("2023-08-05T19:00:00"),
-            "endTime": new Date("2023-08-05T19:05:00"),
             "location": ""
         },
         {
@@ -417,14 +401,6 @@ define([], function() {
             "location": ""
         },
         {
-            "id": 53,
-            "title": "Wesley Mortgage FREEDOM FRIDAY TRIBUTE CONCERT",
-            "description": "",
-            "startTime": new Date("2023-08-04T19:00"),
-            "endTime": new Date("2023-08-04T19:40"),
-            "location": ""
-        },
-        {
             "id": 54,
             "title": "Neon Union (iHeartRadio Stage)",
             "description": "",
@@ -484,7 +460,7 @@ define([], function() {
             "id": 61,
             "title": "FLO RIDA (Zyn Main Stage)",
             "description": "",
-            "startTime": new Date("2023-08-05T19:05:00"),
+            "startTime": new Date("2023-08-05T19:00:00"),
             "endTime": new Date("2023-08-05T19:45:00"),
             "location": ""
         },
@@ -516,7 +492,7 @@ define([], function() {
             "id": 65,
             "title": "Tim Dugger (iHeartRadio Stage)",
             "description": "",
-            "startTime": new Date("2023-08-06T02:00:00"),
+            "startTime": new Date("2023-08-06T14:00:00"),
             "endTime":  new Date("2023-08-06T14:40:00"),
             "location": ""
         },
